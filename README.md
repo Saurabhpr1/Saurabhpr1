@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Saurabh, an aspiring Cloud & DevOps Engineer passionate about cloud computing, infrastructure automation, and modern DevOps practices.<br><br>I enjoy working on hands-on projects involving Microsoft Azure, Terraform, Docker, Kubernetes, and CI/CD pipelines.<br><br>I'm focused on building, automating, and deploying scalable cloud infrastructure while continuously improving my technical skills.<br><br>**Currently exploring:** Helm, Argo CD, Kubernetes, and DevOps automation.<br><br>**Open to opportunities:** Junior DevOps Engineer | Cloud Engineer | DevOps Intern<br><br>Let's connect and build something awesome! 🚀
+<br><br>Hi, I'm Saurabh, an aspiring Cloud & DevOps Engineer passionate about cloud computing, infrastructure automation, and modern DevOps practices.<br><br>I enjoy working on hands-on projects involving Microsoft Azure, Terraform, Docker, Kubernetes, and CI/CD pipelines.<br><br>I'm focused on building, automating, and deploying scalable cloud infrastructure while continuously improving my technical skills.<br><br>**Currently exploring:** Helm, Argo CD, Kubernetes, and DevOps automation.<br><br>**Open to opportunities:** Junior DevOps Engineer | Cloud Engineer | DevOps Intern<br><br>Let's connect and build something awesome! 🚀
 
 
 ## 🌐 Socials:
